@@ -6,9 +6,8 @@ This project aims to provide a practical tool for students, educators, and enthu
 
 ## **📸 Screenshots**
 
-A screenshot showing the main interface with processes and algorithm selection.
+![image](https://github.com/user-attachments/assets/d4ed59fc-b87f-4bad-b3e0-4d3c1212ab8c)
 
-A screenshot of the Gantt chart visualization after a simulation.
 
 ## **✨ Key Features**
 
